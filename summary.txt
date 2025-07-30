@@ -1,0 +1,153 @@
+============================================================
+BACKTEST ANALYTICS SUMMARY
+============================================================
+Total Trades: 1894
+Wins: 801 | Losses: 1093
+Win Rate: 42.29%
+Total P&L: 3271.45 points
+Average Win: 15.22 points
+Average Loss: -8.35 points
+Profit Factor: 1.34
+CAGR: 0.32%
+Max Drawdown: 269.0 points
+Max Win Streak: 11
+Max Loss Streak: 17
+Average R:R: 0.28
+Max R:R Achieved: 4.22
+Min R:R Achieved: -1.47
+Long Trades: 1088 (Win Rate: 40.44%)
+Short Trades: 806 (Win Rate: 44.79%)
+Avg Time in Trade: 6.58 minutes
+Avg Max Favorable: 6.99 points
+Avg Max Adverse: 3.2 points
+Backtest Period: 3680 days
+
+================================================================================
+YEAR-WISE DETAILED ANALYTICS
+================================================================================
+Backtest Period: 2015-01-09 to 2025-02-06 (3680 days)
+Years Covered: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025
+================================================================================
+Year 2015:
+  Trades:    179 | Wins:  83 | Losses:  96 | Win Rate:  46.4%
+  P&L:    282.1 pts | Cumulative:    282.1 pts | Return:    0.3%
+  Avg Win:    9.9 | Avg Loss:   -5.7 | Profit Factor:  1.52
+  Max DD:   73.8 pts | Win Streak:  4 | Loss Streak:  7
+  Best Trade:   25.2 | Worst Trade:  -15.7 | Monthly Avg: 14.9
+--------------------------------------------------------------------------------
+Year 2016:
+  Trades:    194 | Wins:  93 | Losses: 101 | Win Rate:  47.9%
+  P&L:    241.4 pts | Cumulative:    523.5 pts | Return:    0.2%
+  Avg Win:    8.5 | Avg Loss:   -5.4 | Profit Factor:  1.44
+  Max DD:   49.1 pts | Win Streak:  6 | Loss Streak:  7
+  Best Trade:   42.8 | Worst Trade:  -17.2 | Monthly Avg: 16.2
+--------------------------------------------------------------------------------
+Year 2017:
+  Trades:    199 | Wins:  85 | Losses: 114 | Win Rate:  42.7%
+  P&L:    184.4 pts | Cumulative:    707.9 pts | Return:    0.2%
+  Avg Win:    8.7 | Avg Loss:   -4.9 | Profit Factor:  1.33
+  Max DD:   50.9 pts | Win Streak:  8 | Loss Streak:  9
+  Best Trade:   29.2 | Worst Trade:  -19.2 | Monthly Avg: 16.6
+--------------------------------------------------------------------------------
+Year 2018:
+  Trades:    197 | Wins:  80 | Losses: 117 | Win Rate:  40.6%
+  P&L:    253.0 pts | Cumulative:    960.9 pts | Return:    0.3%
+  Avg Win:   11.7 | Avg Loss:   -5.8 | Profit Factor:  1.37
+  Max DD:   81.4 pts | Win Streak:  5 | Loss Streak:  8
+  Best Trade:   43.9 | Worst Trade:  -21.8 | Monthly Avg: 16.4
+--------------------------------------------------------------------------------
+Year 2019:
+  Trades:    181 | Wins:  79 | Losses: 102 | Win Rate:  43.6%
+  P&L:    391.6 pts | Cumulative:   1352.6 pts | Return:    0.4%
+  Avg Win:   13.6 | Avg Loss:   -6.7 | Profit Factor:  1.57
+  Max DD:  108.5 pts | Win Streak: 11 | Loss Streak: 12
+  Best Trade:   36.1 | Worst Trade:  -21.6 | Monthly Avg: 15.1
+--------------------------------------------------------------------------------
+Year 2020:
+  Trades:    183 | Wins:  92 | Losses:  91 | Win Rate:  50.3%
+  P&L:    923.4 pts | Cumulative:   2276.0 pts | Return:    0.9%
+  Avg Win:   19.0 | Avg Loss:   -9.1 | Profit Factor:  2.12
+  Max DD:   88.0 pts | Win Streak:  7 | Loss Streak:  9
+  Best Trade:   46.3 | Worst Trade:  -23.6 | Monthly Avg: 15.2
+--------------------------------------------------------------------------------
+Year 2021:
+  Trades:    184 | Wins:  69 | Losses: 115 | Win Rate:  37.5%
+  P&L:     82.1 pts | Cumulative:   2358.1 pts | Return:    0.1%
+  Avg Win:   19.6 | Avg Loss:  -11.0 | Profit Factor:  1.06
+  Max DD:  183.1 pts | Win Streak:  8 | Loss Streak: 11
+  Best Trade:   42.1 | Worst Trade:  -25.0 | Monthly Avg: 15.3
+--------------------------------------------------------------------------------
+Year 2022:
+  Trades:    183 | Wins:  72 | Losses: 111 | Win Rate:  39.3%
+  P&L:    428.2 pts | Cumulative:   2786.3 pts | Return:    0.4%
+  Avg Win:   23.3 | Avg Loss:  -11.3 | Profit Factor:  1.34
+  Max DD:   92.5 pts | Win Streak:  4 | Loss Streak:  7
+  Best Trade:   46.5 | Worst Trade:  -24.9 | Monthly Avg: 15.2
+--------------------------------------------------------------------------------
+Year 2023:
+  Trades:    193 | Wins:  89 | Losses: 104 | Win Rate:  46.1%
+  P&L:    513.3 pts | Cumulative:   3299.6 pts | Return:    0.5%
+  Avg Win:   17.0 | Avg Loss:   -9.6 | Profit Factor:  1.51
+  Max DD:   91.7 pts | Win Streak:  6 | Loss Streak:  8
+  Best Trade:   42.3 | Worst Trade:  -23.8 | Monthly Avg: 16.1
+--------------------------------------------------------------------------------
+Year 2024:
+  Trades:    181 | Wins:  65 | Losses: 116 | Win Rate:  35.9%
+  P&L:     -6.8 pts | Cumulative:   3292.8 pts | Return:   -0.0%
+  Avg Win:   22.6 | Avg Loss:  -12.7 | Profit Factor:  1.00
+  Max DD:  196.1 pts | Win Streak:  5 | Loss Streak: 12
+  Best Trade:   43.5 | Worst Trade:  -25.0 | Monthly Avg: 15.1
+--------------------------------------------------------------------------------
+Year 2025:
+  Trades:     20 | Wins:   6 | Losses:  14 | Win Rate:  30.0%
+  P&L:    -21.4 pts | Cumulative:   3271.4 pts | Return:   -0.0%
+  Avg Win:   26.2 | Avg Loss:  -12.8 | Profit Factor:  0.88
+  Max DD:   98.7 pts | Win Streak:  3 | Loss Streak:  7
+  Best Trade:   48.6 | Worst Trade:  -21.2 | Monthly Avg:  1.7
+--------------------------------------------------------------------------------
+SUMMARY STATISTICS:
+  Total Years: 11
+  Overall CAGR:   0.29%
+  Best Year:    0.9% (Year 2020)
+  Worst Year:   -0.0% (Year 2025)
+  Profitable Years: 9/11
+  Average Annual Trades: 172.2
+
+====================================================================================================
+MONTHLY P&L HEATMAP (Points)
+====================================================================================================
+Year       Jan     Feb     Mar     Apr     May     Jun     Jul     Aug     Sep     Oct     Nov     Dec     Total
+----------------------------------------------------------------------------------------------------
+2015      14.8    15.4    30.7    54.5   102.2    51.4     8.8   -57.0    57.6   -13.8    50.9   -33.5     282.1
+2016      47.3    15.5    43.8   -13.9    29.1   -13.4    30.9    24.1     5.1   -11.5    95.2   -10.9     241.4
+2017      61.1   -27.8    25.6    -4.0    17.3     0.5   -28.7    86.0    -2.3    49.0    15.9    -8.0     184.4
+2018     -19.6    -5.0    41.0    31.0    24.3    -6.3   -19.5    89.0    59.0    57.7    28.9   -27.4     253.0
+2019     -52.8    87.8    11.0   -16.1    43.6    65.7    54.6   143.0    68.5   -52.9     3.3    36.0     391.6
+2020     104.8   115.3   177.8    99.8   159.9   -37.3    40.6   -12.8   161.3    60.9    29.3    23.7     923.4
+2021     101.1    82.4    27.0    15.3   -56.4   -32.4   -11.6    98.8     7.1    16.6   -17.2  -148.5      82.1
+2022     -63.4   197.5   -73.8    77.8   168.4    54.6   -18.0    20.2   -37.0   -24.3    60.4    65.7     428.2
+2023      61.7    -4.7    62.9    23.3    98.8     1.9    50.7    32.7    41.6   -33.4     2.8   174.8     513.3
+2024     -94.1   -66.2   109.6   -79.8    76.1  -119.6    62.0    91.8   -36.1    21.6    45.4   -17.5      -6.8
+2025       0.3   -21.7       —       —       —       —       —       —       —       —       —       —     -21.4
+====================================================================================================
+
+================================================================================
+DRAWDOWN ANALYSIS
+================================================================================
+Maximum Drawdown: 269.0 points
+Max DD Date: 2022-01-25
+Max DD Peak: 2541.2 points
+Number of Drawdown Periods: 146
+
+Top 5 Drawdown Periods:
+Start        End          Duration   Peak     Trough   DD Points  Recovery  
+--------------------------------------------------------------------------------
+2021-10-28   2022-05-11   195        2541.2   2272.2   269.0      Yes       
+2024-01-05   2024-08-08   216        3318.2   3122.0   196.1      Yes       
+2021-04-13   2021-10-22   192        2539.8   2381.8   158.0      Yes       
+2024-08-14   2025-02-06   176        3345.7   3208.7   136.9      Ongoing   
+2019-09-27   2020-01-22   116        1382.1   1273.5   108.5      Yes       
+
+Yearly analytics exported to 'yearly_analytics.csv'
+Trade details exported to 'backtest_results.csv'
+Detailed logs available in the console output above
